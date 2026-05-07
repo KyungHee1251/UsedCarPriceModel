@@ -54,6 +54,7 @@ The modeling phase has extracted the maximum value from the current dataset. We 
    ```bash
    git clone https://github.com/KyungHee1251/UsedCarPriceModel.git
    ```
+2. Unzip data/vehicles.csv.zip so that vehicles.csv is present in the data/ directory.
 2. Open the notebook:
    ```
    jupyter notebook prompt_II.ipynb

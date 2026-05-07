@@ -52,7 +52,7 @@ The modeling phase has extracted the maximum value from the current dataset. We 
 # How to Use
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/KyungHee1251/UsedCarPriceModel.git](https://github.com/KyungHee1251/UsedCarPriceModel.git)
+   git clone https://github.com/KyungHee1251/UsedCarPriceModel.git
    ```
 2. Open the notebook:
    ```
